@@ -1,4 +1,12 @@
-[![CI badge](https://github.com/micropython/micropython/workflows/unix%20port/badge.svg)](https://github.com/micropython/micropython/actions?query=branch%3Amaster+event%3Apush) [![codecov](https://codecov.io/gh/micropython/micropython/branch/master/graph/badge.svg?token=I92PfD05sD)](https://codecov.io/gh/micropython/micropython)
+Information
+=======================
+This repository is a code that has partially changed Micropython to operate DDNSToken on the Raspberry Pi Pico W.
+
+The compilation procedure and method are exactly the same as the MicroPython project.
+
+For MicroPython, please refer to the information indicated below.
+
+<br/>
 
 The MicroPython project
 =======================
