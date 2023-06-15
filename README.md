@@ -1,6 +1,6 @@
 Information
 =======================
-This repository is a code that has partially changed Micropython to operate DDNSToken on the Raspberry Pi Pico W.
+This repository is a code that has partially changed MicroPython to operate DDNSToken on the Raspberry Pi Pico W.
 
 The compilation procedure and method are exactly the same as the MicroPython project.
 
